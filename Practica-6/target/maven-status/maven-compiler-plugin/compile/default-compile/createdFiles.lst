@@ -1,0 +1,14 @@
+com\upiiz\Practica_6\Services\PacientesService.class
+com\upiiz\Practica_6\Controllers\PacientesController.class
+com\upiiz\Practica_6\Models\PacientesModel.class
+com\upiiz\Practica_6\Models\MedicosModel.class
+com\upiiz\Practica_6\Repositories\MedicosRepository.class
+com\upiiz\Practica_6\Controllers\HomeController.class
+com\upiiz\Practica_6\Controllers\ConsultasController.class
+com\upiiz\Practica_6\Models\ConsultasModel.class
+com\upiiz\Practica_6\Repositories\PacientesRepository.class
+com\upiiz\Practica_6\Practica6Application.class
+com\upiiz\Practica_6\Controllers\MedicosController.class
+com\upiiz\Practica_6\Services\MedicosService.class
+com\upiiz\Practica_6\Repositories\ConsultasRepository.class
+com\upiiz\Practica_6\Services\ConsultasService.class
